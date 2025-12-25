@@ -1,0 +1,10 @@
+{
+  "name": "Copy of FableSpeak: The AI Storyteller",
+  "description": "An immersive storytelling application that uses Gemini's advanced TTS models with full offline storage and WAV downloads.",
+  "short_name": "FableSpeak",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "requestFramePermissions": []
+}
